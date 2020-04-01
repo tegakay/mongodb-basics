@@ -1,2 +1,2 @@
-![](images/ccollect.png)
-![](images/datacrea.png)
+![](images/ccollect.PNG)
+![](images/datacrea.PNG)
